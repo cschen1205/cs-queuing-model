@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SimuKit.OR.Queueing
+namespace QueuingModels
 {
     // interarrival time: M (exponential distribution)
     // service time: M (exponential distribution)

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SimuKit.OR.Queueing
+namespace QueuingModels
 {
     //If a significant portion of dropped calls retry, then erlang B should 
     //be replace with extended erlang B, which also considers the rate of

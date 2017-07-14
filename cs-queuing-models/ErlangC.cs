@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SimuKit.OR.Queueing
+namespace QueuingModels
 {
     //infinite-queue queuing system
     //link: http://web2.uwindsor.ca/math/hlynka/qsoft.html

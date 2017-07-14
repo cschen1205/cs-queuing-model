@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SimuKit.OR.Queueing
+namespace QueuingModels
 {
     //pure loss system with infinite population
     public class ErlangB : BasicModel

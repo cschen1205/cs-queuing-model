@@ -37,11 +37,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasicModel.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="DistributionModel.cs" />
+    <Compile Include="Erlang.cs" />
     <Compile Include="ErlangB.cs" />
     <Compile Include="ErlangC.cs" />
+    <Compile Include="Exponential.cs" />
     <Compile Include="ExtendedErlangB.cs" />
+    <Compile Include="Factorial.cs" />
+    <Compile Include="Gamma.cs" />
     <Compile Include="MCModel.cs" />
     <Compile Include="MMs.cs" />
+    <Compile Include="PolynomialHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
